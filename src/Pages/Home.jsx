@@ -30,7 +30,7 @@ function Home() {
            <h1 className='flex justify-center w-full text-[40px] md:text-[70px] text-red-600 font-bold'>DEALERS</h1>
            <p className='flex justify-center w-full font-bold text-gray-200'>We have expert buyers of scrap which</p>
            <p className='flex justify-center w-full font-bold text-gray-200'>are paying valueable price according to</p>
-           <p className='flex justify-center w-full font-bold text-gray-200'>you scrap itemss</p>
+           <p className='flex justify-center w-full font-bold text-gray-200'>you scrap items</p>
          </Grid>
          <Grid size={{ xs: 12, md: 6 }} component={motion.div}
                   initial={{ x: 500 }}
